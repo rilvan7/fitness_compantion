@@ -1,1 +1,1 @@
-# fitness_compantion
+# fitness
